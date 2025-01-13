@@ -86,7 +86,8 @@ DATABASES = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",  # Replace with your frontend URL
+    "http://localhost:5173",
+    "https://chatbot-frontend-qt6h.onrender.com"
 ]
 
 # Password validation
